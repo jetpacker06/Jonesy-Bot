@@ -1,0 +1,28 @@
+{
+  "players" : {
+    "e": {
+      "inventory" : {
+        "slot1": {
+          "id":"shotgun",
+          "stack_size": 1
+        },
+        "slot2": {
+          "id":"grenade",
+          "stack_size": 10
+        },
+        "slot3": {
+          "id":"mini_shield",
+          "stack_size": 10
+        },
+        "slot4": {
+          "id":"med_kit",
+          "stack_size": 3
+        },
+        "slot5": {
+          "id":"empty",
+          "stack_size": 1
+        }
+      }
+    }
+  }
+}
