@@ -1,0 +1,116 @@
+{
+  "servers": {
+    "871409050808643594": {
+      "players": {
+        "jetpacker068063": {
+          "inventory": {
+            "slot1": {
+              "id": "grenade",
+              "stack_size": 10
+            },
+            "slot2": {
+              "id": "shotgun",
+              "stack_size": 1
+            },
+            "slot3": {
+              "id": "assault_rifle",
+              "stack_size": 1
+            },
+            "slot4": {
+              "id": "shield",
+              "stack_size": 3
+            },
+            "slot5": {
+              "id": "mini_shield",
+              "stack_size": 1
+            }
+          },
+          "health": 100,
+          "shield": 0
+        },
+        "chickennougat8518": {
+          "inventory": {
+            "slot1": {
+              "id": "mini_shield",
+              "stack_size": 2
+            },
+            "slot2": {
+              "id": "empty",
+              "stack_size": 1
+            },
+            "slot3": {
+              "id": "empty",
+              "stack_size": 1
+            },
+            "slot4": {
+              "id": "empty",
+              "stack_size": 1
+            },
+            "slot5": {
+              "id": "empty",
+              "stack_size": 1
+            }
+          },
+          "health": 100,
+          "shield": 0
+        },
+        "Fracture1323": {
+          "inventory": {
+            "slot1": {
+              "id": "shotgun",
+              "stack_size": 1
+            },
+            "slot2": {
+              "id": "shotgun",
+              "stack_size": 1
+            },
+            "slot3": {
+              "id": "empty",
+              "stack_size": 1
+            },
+            "slot4": {
+              "id": "empty",
+              "stack_size": 1
+            },
+            "slot5": {
+              "id": "empty",
+              "stack_size": 1
+            }
+          },
+          "health": 100,
+          "shield": 0
+        }
+      }
+    },
+    "945662624224382998": {
+      "players": {
+        "jetpacker068063": {
+          "inventory": {
+            "slot1": {
+              "id": "empty",
+              "stack_size": 1
+            },
+            "slot2": {
+              "id": "empty",
+              "stack_size": 1
+            },
+            "slot3": {
+              "id": "empty",
+              "stack_size": 1
+            },
+            "slot4": {
+              "id": "empty",
+              "stack_size": 1
+            },
+            "slot5": {
+              "id": "empty",
+              "stack_size": 1
+            }
+          },
+          "health": 100,
+          "shield": 0
+        }
+      }
+    }
+  }
+}
